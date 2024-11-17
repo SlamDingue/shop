@@ -19,7 +19,7 @@ nav {
    background-color: white;
    display: flex;
    justify-content: space-between;
-   align-items: flex-end;
+   align-items: center;
 }
 
 /* On enlève les tirets de la liste et on met en horizontal */
